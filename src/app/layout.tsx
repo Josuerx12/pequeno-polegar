@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "Escola ideal para seu filho!",
 };
 
-export const nunito = Nunito({
+const nunito = Nunito({
   subsets: ["latin"],
   style: ["normal", "italic"],
   display: "swap",
