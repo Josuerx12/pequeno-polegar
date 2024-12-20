@@ -46,7 +46,7 @@ const About = () => {
         </div>
 
         <Image
-          src="/10.jfif"
+          src="/10.png"
           width={539}
           height={388}
           alt="Imagem de demosntração de crianças aprendendo com tecnologia!"
@@ -55,7 +55,7 @@ const About = () => {
 
       <div className="max-w-screen-lg mx-auto flex gap-2 flex-wrap justify-center lg:justify-normal lg:flex-nowrap p-4">
         <Image
-          src="/1.jfif"
+          src="/1.png"
           width={224}
           height={175}
           alt="Imagem de demosntração de crianças aprendendo com tecnologia!"

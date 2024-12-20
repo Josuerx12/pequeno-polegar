@@ -10,7 +10,7 @@ const PolegarBelives = () => {
       <div className="max-w-screen-lg mx-auto flex gap-2 flex-wrap justify-center items-center lg:justify-normal lg:flex-nowrap p-4">
         <Image
           className="h-[386px]"
-          src="/8.jfif"
+          src="/8.png"
           width={500}
           height={386}
           alt="Imagem de demosntração de crianças aprendendo com brinquedos intuitivos!"

@@ -13,7 +13,7 @@ const Navbar = () => {
           alt="Logomarca Pequeno polegar!"
         />
         <Image
-          src="/1.jfif"
+          src="/1.png"
           width={103}
           height={80}
           alt="Logo da instituição de ensino!"

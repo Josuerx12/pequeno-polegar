@@ -6,7 +6,7 @@ const Structure = () => {
     <div className="relative w-full md:h-[700px] bg-neutral-800 bg-no-repeat bg-cover group">
       <Image
         className="absolute top-0 left-0 w-full h-full object-cover opacity-0 group-hover:opacity-50 transition-opacity duration-300"
-        src="/3.jfif"
+        src="/3.png"
         width={1920}
         height={690}
         alt="Estrutura do colégio!"
