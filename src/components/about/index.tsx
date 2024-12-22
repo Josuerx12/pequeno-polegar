@@ -4,7 +4,7 @@ import Cards from "../cards";
 
 const About = () => {
   return (
-    <div>
+    <div id="quemsomos">
       <h2 className="text-4xl font-extrabold text-[#E61B40] uppercase text-center py-16">
         Quem Somos
       </h2>

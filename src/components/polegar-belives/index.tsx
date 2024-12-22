@@ -3,7 +3,7 @@ import React from "react";
 
 const PolegarBelives = () => {
   return (
-    <div>
+    <div id="polegarte">
       <h2 className="text-4xl font-extrabold text-[#E61B40] uppercase text-center py-16">
         em que o polegar acredita?
       </h2>

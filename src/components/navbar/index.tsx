@@ -54,10 +54,10 @@ const Navbar = () => {
         <nav>
           <ul className="flex gap-2 justify-between">
             <li className="text-[#4B4646] text-sm font-extrabold uppercase">
-              <a href="">Sobre nós</a>
+              <a href="#quemsomos">Sobre nós</a>
             </li>
             <li className="text-[#4B4646] text-sm font-extrabold uppercase">
-              <a href="">Polegarte</a>
+              <a href="#polegarte">Polegarte</a>
             </li>
             <li className="text-[#4B4646] text-sm font-extrabold uppercase">
               <a href="">Fale Conosco</a>

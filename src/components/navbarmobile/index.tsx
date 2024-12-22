@@ -38,7 +38,17 @@ const NavbarMobile = () => {
                 handleScrollTo(value);
               }}
             >
-              {value}
+              <a
+                href={
+                  value === "sobre nós"
+                    ? "#quemsomos"
+                    : value === "polegarte"
+                    ? "#polegarte"
+                    : ""
+                }
+              >
+                {value}
+              </a>
             </li>
           ))}
 
